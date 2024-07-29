@@ -1,6 +1,6 @@
 ---
 title: "I'm Revisto! 🌟🎵"
-description: "Hi! I'm Revisto, a developer and music producer with a passion for creating things and lots of other stuff (really). I'm currently working on a few projects, including a music EP and a few bots and apps. I'm also learning a lot of new things. I'm excited to share my journey here, so stay tuned!"
+description: "Hi! I'm Alireza Shabani (Revisto), a developer and music producer with a passion for creating things and lots of other stuff (really). I'm currently working on a few projects, including a music EP and a few bots and apps. I'm also learning a lot of new things. I'm excited to share my journey here, so stay tuned!"
 aliases: ["/", "/home", "/index.html", "revisto", "rev", "me"]
 tags: ["revisto", "developer", "music producer", "linux enthusiast", "gamer", "series lover", "learner"]
 date: "2024-07-28"
@@ -8,7 +8,7 @@ date: "2024-07-28"
 
 ## Here is My Journey Through Development and Music Production and Other Stuff 🚀🎶
 
-Hi! I'm Revisto, a developer and music producer with a passion for creating things and lots of other stuff (really). I'm currently working on a few projects, including a music EP and a few bots and apps. I'm also learning a lot of [new things](https://www.youtube.com/watch?v=_dJF8d73W_c). I'm excited to share my journey here, so stay tuned! 🎉
+Hi! I'm Alireza Shabani also known as Revisto. I'm a developer and music producer with a passion for creating things and lots of other stuff (really). I'm currently working on a few projects, including a music EP and a few bots and apps. I'm also learning a lot of [new things](https://www.youtube.com/watch?v=_dJF8d73W_c). I'm excited to share my journey here, so stay tuned! 🎉
 
 ![landing](images/landing4.jpg)
 
