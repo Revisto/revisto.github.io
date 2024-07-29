@@ -44,6 +44,20 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "http://schema.org",
+            "@type": "WebPage",
+            "name": title,
+            "description": description,
+            "image": ogImagePath,
+            "url": cfg.baseUrl,
+            "author": {
+              "@type": "Person",
+              "name": "Alireza Shabani (Revisto)"
+            }
+          })}
+        </script>
       </head>
     )
   }
