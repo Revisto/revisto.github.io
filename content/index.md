@@ -10,7 +10,7 @@ date: "2024-07-28"
 
 Hi! I'm Revisto, a developer and music producer with a passion for creating things and lots of other stuff (really). I'm currently working on a few projects, including a music EP and a few bots and apps. I'm also learning a lot of [new things](https://www.youtube.com/watch?v=_dJF8d73W_c). I'm excited to share my journey here, so stay tuned! 🎉
 
-![landing](images/landing4.png)
+![landing](images/landing4.jpg)
 
 ### About Me 🧑‍💻🎵🐧🎮📺📚
 
