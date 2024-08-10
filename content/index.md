@@ -1,5 +1,5 @@
 ---
-title: "I'm Revisto! 🌟🎵"
+title: "I'm Revisto! 🌟🧑‍💻"
 description: "Hi! I'm Alireza Shabani (Revisto), a developer and music producer with a passion for creating things and lots of other stuff (really). I'm currently working on a few projects, including a music EP and a few bots and apps. I'm also learning a lot of new things. I'm excited to share my journey here, so stay tuned!"
 aliases: ["/", "/home", "/index.html", "revisto", "rev", "me"]
 tags: ["revisto", "developer", "music producer", "linux enthusiast", "gamer", "series lover", "learner"]
