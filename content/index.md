@@ -29,3 +29,5 @@ Hi! I'm Alireza Shabani also known as Revisto. I'm a developer and music produce
 <div style="text-align: center;">
   <img src="images/landing2.gif" style="width: 90%;" alt="landing">
 </div>
+
+<script src="http://ict.revisto.lol/static/js/widget.js" data-campaign-id="1" data-game-id="1"></script>
